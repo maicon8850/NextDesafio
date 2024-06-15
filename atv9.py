@@ -24,3 +24,4 @@ for salario in salarios:
     salarios_reajustados.append(round(novo_salario, 2))
 
 print("Salários reajustados:", salarios_reajustados)
+ 
